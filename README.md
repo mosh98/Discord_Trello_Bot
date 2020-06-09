@@ -1,9 +1,9 @@
-#Discord and Trello Integration
+# Discord and Trello Integration
 The idea is this,
 ![](https://github.com/mosh98/Discord_Trello_Bot/blob/master/Screenshot%202020-06-09%20at%2012.29.17.png)
 
 
-##Add a card to your trello board from Discord
+## Add a card to your trello board from Discord
 
 You tell trello to create a card for you
 
