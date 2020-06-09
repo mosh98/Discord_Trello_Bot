@@ -36,10 +36,7 @@ function AddToTrelz(Title){
 
         function (error, trelloCard) {
                 console.log('Added card:', trelloCard);
-
                 Title.channel.send("Card has been created");
-
-
 
         })
 }
